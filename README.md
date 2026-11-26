@@ -479,10 +479,6 @@ Academic Year: 2026-2027
 
 This project was developed as an academic requirement to demonstrate backend development, RESTful API implementation, database integration, authentication, and frontend integration using modern web development technologies.
 
-## Acknowledgments
-
-This project was developed as an academic requirement to demonstrate backend development, RESTful API implementation, database integration, authentication, and frontend integration using modern web development technologies.
-
 ---
 
 ## System Screenshots
