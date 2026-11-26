@@ -98,3 +98,5 @@ backups/
 
 # Private screenshots
 documentation/screenshots/
+# Allow sanitized submission database
+!/database/autotrack_database.sql
