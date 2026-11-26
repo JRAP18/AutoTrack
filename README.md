@@ -100,7 +100,7 @@ Supported service statuses:
 | Backend Framework | NestJS |
 | Programming Language | TypeScript |
 | Object-Relational Mapping | TypeORM |
-| Database | MariaDB / MySQL-compatible |
+| Database | MySQL-compatible |
 | Database Environment | XAMPP |
 | Database Administration | phpMyAdmin |
 | Authentication | JSON Web Token (JWT) |
@@ -136,7 +136,7 @@ AutoTrack follows a client-server architecture.
     TypeORM Repositories
           |
           v
-    MariaDB Database
+    MySQL Database
 
 The frontend communicates with the backend through RESTful API requests. NestJS controllers handle incoming requests, services implement business logic, and TypeORM repositories manage database operations.
 
